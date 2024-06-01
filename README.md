@@ -1,5 +1,4 @@
-
-Flask Notes App
+# Flask Notes App
 This is a simple notes app built using Flask, a micro web framework for Python. The app allows users to create, view, and delete notes.
 
 Features
@@ -47,4 +46,4 @@ Setup
 Install the required packages using pip install -r requirements.txt.
 Create a database and update the SQLALCHEMY_DATABASE_URI configuration in app.py.
 Run the app using python app.py.
-Access the app at http://localhost:5000/home.# first_flask_app
+Access the app at http://localhost:5000/home.
